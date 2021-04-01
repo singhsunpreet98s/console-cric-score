@@ -1,0 +1,32 @@
+.matchTitle{
+   border:2px solid teal;
+   width:100%;
+   border-radius: 2px;
+   padding:1px;
+}
+.matchTitle input{
+   border:none;
+   outline:none;
+   width:90%;
+}
+.matchTitle button{
+
+   background:none;
+   color:teal;
+   text-align: center;
+   outline:none;
+   border:none;
+   cursor:pointer;
+}
+.team{
+   border:2px solid teal;
+   width:45%;
+   padding:1px;
+   border-radius: 2px;
+}
+.team input{
+   padding:10px;
+   border:none;
+   outline:none;
+   width:90%;
+}
