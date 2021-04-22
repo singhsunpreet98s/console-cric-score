@@ -37,5 +37,8 @@ export const commentry = [
    }, {
       name: 'free hit',
       comment: 'its a free hit'
+   }, {
+      name: "wide",
+      comment: "its a wide balll"
    }
 ]
